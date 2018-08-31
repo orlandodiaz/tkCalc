@@ -1,1 +1,1 @@
-<img src="expressions.png" height="500">
+<img src="expressions.png" height="400">
